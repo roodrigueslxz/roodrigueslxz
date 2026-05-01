@@ -1,6 +1,5 @@
 # Luísa Rodrigues da Cunha
-Estudante de Desenvolvimento de Sistemas (ETEC Raposo Tavares)
-Osasco - SP
+Estudante de Desenvolvimento de Sistemas (ETEC Raposo Tavares) // Osasco - SP
 
 ## Sobre mim
 Sou estudante de Desenvolvimento de Sistemas, atualmente cursando o ensino médio integrado ao técnico. Tenho interesse nas áreas de tecnologia da informação e desenvolvimento, buscando sempre aprender novas ferramentas e evoluir minhas habilidades práticas.
