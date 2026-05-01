@@ -32,9 +32,6 @@ Já desenvolvi projetos acadêmicos envolvendo programação, desenvolvimento we
 * Inglês — Intermediário (B1)
 * Alemão — Iniciante (A2)
 
-## Objetivo
-Busco uma oportunidade como estagiária nas áreas de tecnologia da informação ou administrativa, com o objetivo de desenvolver minhas habilidades, adquirir experiência e contribuir com soluções práticas.
-
 ## Contato
 * Email: [roodrigueslxz@gmail.com](mailto:roodrigueslxz@gmail.com)
 
