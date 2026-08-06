@@ -20,12 +20,12 @@ Já desenvolvi projetos acadêmicos envolvendo programação, desenvolvimento we
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## Experiência prática
-* Desenvolvimento de páginas web simples utilizando HTML, CSS e JavaScript
-* Criação de aplicações com integração entre front-end e back-end (PHP)
-* Manipulação de banco de dados com MySQL
-* Desenvolvimento de exercícios e mini-projetos em Python e Java
-* Participação e liderança em projetos escolares
-* Organização de tarefas e trabalho em equipe
+* Desenvolvimento de aplicações web utilizando HTML5, CSS3, JavaScript e PHP.
+* Integração entre front-end e banco de dados MySQL.
+* Modelagem e manipulação de bancos de dados relacionais.
+* Desenvolvimento de mini projetos em Python e Java com foco em lógica de programação.
+* Liderança e organização de projetos acadêmicos em equipe.
+
 
 ## Atualmente aprendendo
 * Aprimorando lógica de programação
